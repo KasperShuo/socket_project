@@ -4,7 +4,8 @@ The socket project
 3. Project is upload to Github ("https://github.com/KasperShuo/socket_project").
 4. With README.md.
 5. Develop and Demo the project in Debian 10 on a virtual machine.
-6. With Video demo.
+   Develop with vscode and cmake.
+6. With Video demo. (with link below)
 
 =========================================
 
