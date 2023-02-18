@@ -32,7 +32,7 @@ Client:
     ○ Exit program with exit code 0 after the echo message is received
     ○ Exit program with exit code 1 if reach max-retry
 
-Video Demo:
+Video Demo: (https://drive.google.com/file/d/1TPyEeMvPEBiqMXnPX911T_Q_wGg_ZVNq/view?usp=share_link)
 
 the video was distinguished for three parts.
 
